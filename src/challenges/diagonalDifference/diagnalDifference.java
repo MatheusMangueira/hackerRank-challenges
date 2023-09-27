@@ -1,4 +1,4 @@
-package challenges;
+package challenges.diagonalDifference;
 
 import java.util.List;
 

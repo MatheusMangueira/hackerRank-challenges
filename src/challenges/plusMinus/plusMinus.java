@@ -1,4 +1,4 @@
-package challenges;
+package challenges.plusMinus;
 
 
 import java.util.List;

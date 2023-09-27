@@ -1,4 +1,4 @@
-package challenges;
+package challenges.staircase;
 
 public class Staircase {
   public static void main(String[] args) {
